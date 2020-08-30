@@ -1,4 +1,4 @@
-# PointDenoise-Net
+# PointDenoiseNet
 This project is modified from PointCleanNet(https://github.com/mrakotosaon/pointcleannet.git) to denoise more complex models.Our algorithm is based on title={POINTCLEANNET: Learning to denoise and remove outliers from dense point clouds}.
 ## Prerequisites
 * CUDA and CuDNN 
@@ -14,7 +14,7 @@ pip install tensorboardX
 ```
 Clone this repository:
 ``` bash
-git clone https://github.com/schwien/PointDenoise-Net.git
+git clone https://github.com/schwien/PointDenoiseNet
 cd pointcleannet
 ```
 
