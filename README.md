@@ -1,9 +1,9 @@
 # PointDenoise-Net
-This project is modified from Pointcleannet to denoise more complex models
+This project is modified from PointCleanNet(https://github.com/mrakotosaon/pointcleannet.git) to denoise more complex models.Our algorithm is based on title={POINTCLEANNET: Learning to denoise and remove outliers from dense point clouds}.
 ## Prerequisites
-* CUDA and CuDNN (changing the code to run on CPU should require few changes)
-* Python 2.7
-* PyTorch 1.0
+* CUDA and CuDNN 
+* Python 3.6
+* PyTorch 1.3
 
 ## Setup
 Install required python packages, if they are not already installed ([tensorboardX](https://github.com/lanpa/tensorboard-pytorch) is only required for training):
